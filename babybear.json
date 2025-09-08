@@ -1,0 +1,11 @@
+{
+  "name": "Baby Bear",
+  "symbol": "BABYBEAR",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/babybearmemetoken/babybear-logo/main/babybear.png",
+  "extensions": {
+    "website": "https://babybearmemetoken.carrd.co/",
+    "twitter": "https://x.com/babybear_token",
+    "telegram": "https://t.me/babybearmemetoken"
+  }
+}
