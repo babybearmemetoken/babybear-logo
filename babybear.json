@@ -1,8 +1,9 @@
 {
   "name": "Baby Bear",
   "symbol": "BABYBEAR",
+  "address": "Bear4Lby34y6TrQYfEUigk5dCmWZ4JQHSkmQ2zUcJxzH",
   "decimals": 9,
-  "image": "https://raw.githubusercontent.com/babybearmemetoken/babybear-logo/main/babybear.png",
+  "logoURI": "https://raw.githubusercontent.com/babybearmemetoken/babybear-logo/main/babybear.png",
   "extensions": {
     "website": "https://babybearmemetoken.carrd.co/",
     "twitter": "https://x.com/babybear_token",
